@@ -1,0 +1,32 @@
+# Environment
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Data
+data/raw/*
+data/processed/*
+data/generated/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/generated/.gitkeep
+
+# Models
+models/*
+!models/.gitkeep
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+
+# macOS
+.DS_Store
+# Conda environment
+miniconda/
+conda-meta/
