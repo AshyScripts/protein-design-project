@@ -30,3 +30,11 @@ logs/
 # Conda environment
 miniconda/
 conda-meta/
+
+
+# Evaluation outputs
+evaluation_results/
+generated_samples/
+checkpoints/
+downloads/
+notes.txt
