@@ -8,8 +8,6 @@ An end-to-end workflow that fine-tunes the ProGen2 transformer on three Pfam fam
 - **Sequence generation**  
 - **Comprehensive evaluation** (perplexity, sequence identity, HMMER recovery, attention analysis)
 
-# Protein Design with ProGen2: Fine-tuning for Protein Family Generation
-
 ## Project Structure
 ```protein-design-progen2/
 ├── downloads/                  # Downloaded Pfam family sequences
