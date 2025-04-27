@@ -38,3 +38,5 @@ generated_samples/
 checkpoints/
 downloads/
 notes.txt
+
+.vscode/
